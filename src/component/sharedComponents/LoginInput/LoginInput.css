@@ -1,0 +1,39 @@
+.dark-mode {
+    background-color: #2e2e2e;
+
+}
+
+.login-input {
+    width           : 100%;
+    border-radius   : 8px;
+    padding         : 14px 16px;
+    border          : 1px solid #D1D5DB;
+    box-sizing      : border-box;
+    background-color: #F9FAFB;
+    position        : relative;
+}
+
+.Input-content {
+    width   : 100%;
+    position: relative;
+}
+
+
+.login-input:focus {
+
+    border : 1px solid #F26651;
+    outline: none;
+
+}
+
+.login-input-dark::placeholder {
+    color: #D1D5DB;
+
+}
+
+.login-input-dark {
+    background-color: #222;
+    color           : #d6dbd1;
+    border          : 1px solid #F26651;
+
+}

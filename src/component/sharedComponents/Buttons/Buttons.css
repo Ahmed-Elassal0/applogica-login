@@ -1,0 +1,10 @@
+.login-button {
+    width           : 100%;
+    background-color: var(--primary-color);
+    color           : var(--primary-text-color);
+    text-transform  : uppercase;
+    padding         : 14px 24px;
+    border-radius   : 8px;
+    font-size       : 16px;
+    border          : none;
+}
